@@ -13,7 +13,7 @@ class Solution:
             if i not in num_set:
                 return i
 
-#OPTIMAL SOLUTION USING ARITHEMETIC SUM O(1)* 
+#OPTIMAL SOLUTION USING ARITHMETIC SUM O(1)* 
 # *space complexity
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
