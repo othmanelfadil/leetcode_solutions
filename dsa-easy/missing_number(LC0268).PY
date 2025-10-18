@@ -22,3 +22,17 @@ class Solution:
         expected_sum = n * (n + 1) // 2 #// is an integer division no remainder
         actual_sum = sum(nums)
         return expected_sum - actual_sum
+    
+
+#XOR APPROACH (BITWISE XOR) O(1)*
+# *space complexity
+# see more https://allen.in/jee/physics/exclusive-or-gate
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        missing = len(nums)  # start with n
+        # let's take [3, 0, 1] as our array
+        # XOR all indices and numbers 3 ^ 0 ^ 3 = 0 -> 0 ^ 1 ^ 0 = 1 -> 1 ^ 2 ^ 1 = 2 (^ is the bitwise operator for XOR in python) 
+        # leaving only the missing number at the end in this case it is 2 !
+        for i, num in enumerate(nums):
+            missing ^= i ^ num
+        return missing
