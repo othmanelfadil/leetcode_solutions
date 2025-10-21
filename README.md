@@ -12,10 +12,11 @@ We aim to add the following to further enhance it's content:
 
 <p align="left">
   <a href="https://github.com/othmanelfadil">
-    <img src="https://github.com/othmanelfadil.png" width="50" style="border-radius:50%;" alt="dante"/>
+  <img src="https://github.com/othmanelfadil.png" width="50" alt="dante" style="display:block;"/>
   </a>
   <a href="https://github.com/ahmedmakroum">
-    <img src="https://github.com/ahmedmakroum.png" width="50" style="border-radius:50%;" alt="arx"/>
-  </a>
+  <img src="https://github.com/ahmedmakroum.png" width="50" alt="arx" style="display:block;"/>
+</a>
+
 
 </p>
