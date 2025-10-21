@@ -8,14 +8,14 @@ We aim to add the following to further enhance it's content:
 - Provide detailed commentary tracing the problem solving process in it's entirety.
 - Add Solutions to Leetcode's SQL problems.
 
-### 👥 Collaborators
+#### Collaborators
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/othmanelfadil">
-    <img src="https://github.com/othmanelfadil.png" width="70" style="border-radius:50%;" alt="dante"/>
+    <img src="https://github.com/othmanelfadil.png" width="50" style="border-radius:50%;" alt="dante"/>
   </a>
   <a href="https://github.com/ahmedmakroum">
-    <img src="https://github.com/ahmedmakroum.png" width="70" style="border-radius:50%;" alt="arx"/>
+    <img src="https://github.com/ahmedmakroum.png" width="50" style="border-radius:50%;" alt="arx"/>
   </a>
 
 </p>
