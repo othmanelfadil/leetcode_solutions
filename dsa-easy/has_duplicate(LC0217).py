@@ -11,3 +11,13 @@ class Solution:
 # Brute Force Approach
 # Time Complexity: O(n^2)
 # Space Complexity: O(1)
+
+
+
+class Solution:
+    def hasDuplicate(self, nums: List[int]) -> bool:
+        return len(set(nums)) != len(nums)
+    
+# Using Set
+# Time Complexity: O(n)
+# Space Complexity: O(n)
