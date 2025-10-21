@@ -8,13 +8,13 @@ We aim to add the following to further enhance it's content:
 - Provide detailed commentary tracing the problem solving process in it's entirety.
 - Add Solutions to Leetcode's SQL problems.
 
-#### Collaborators
+### Collaborators
 
-<div style="display:flex; gap:0;">
-  <a href="https://github.com/othmanelfadil" style="text-decoration:none;">
-    <img src="https://github.com/othmanelfadil.png" width="50" alt="dante"/>
+<p style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 0;">
+  <a href="https://github.com/othmanelfadil">
+    <img src="https://github.com/othmanelfadil.png?size=40" width="40" alt="dante" style="border-radius: 50%; margin: 0; padding: 0;">
   </a>
-  <a href="https://github.com/ahmedmakroum" style="text-decoration:none;">
-    <img src="https://github.com/ahmedmakroum.png" width="50" alt="arx"/>
+  <a href="https://github.com/ahmedmakroum">
+    <img src="https://github.com/ahmedmakroum.png?size=40" width="40" alt="arx" style="border-radius: 50%; margin: 0; padding: 0;">
   </a>
-</div>
+  </p>
