@@ -1,3 +1,4 @@
+# O(n^2)
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
         cols = defaultdict(set)
