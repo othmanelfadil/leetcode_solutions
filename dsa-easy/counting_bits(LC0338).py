@@ -1,3 +1,4 @@
+# O(n)
 class Solution:
     def countBits(self, n: int) -> List[int]:
         bc = [0] * (n + 1)
